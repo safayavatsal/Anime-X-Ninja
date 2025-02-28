@@ -6,7 +6,7 @@ An Ad Free Anime Streaming web app to give you a better experience.
 
 ## Api Reference
 
-- [API REPO](https://github.com/routayush1/animexninja-api)
+- [API REPO](https://github.com/safayavatsal/animexninja-api)
   This api is being used in this project.
 
 ## Getting Started
@@ -14,7 +14,7 @@ An Ad Free Anime Streaming web app to give you a better experience.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-FIRST YOU NEED TO CLONE [API REPO](https://github.com/routayush1/animexninja-api) AND RUN IT.
+FIRST YOU NEED TO CLONE [API REPO](https://github.com/safayavatsal/animexninja-api) AND RUN IT.
 You need to note api local host url.you have to create a tunnel for your api local_host through NGROK.
 Go to next.config.js file on the root of the project and put your NGROK url inside the env object
 
@@ -62,9 +62,8 @@ Please make sure to update tests as appropriate.
 
 ## Authors
 
-- [AyushRout](https://github.com/routayush1)
-- [SohamSingh](https://github.com/sohamsingh29)
-- [Gaurav](https://github.com/gauravdh9)
+- [Vatsal](https://github.com/safayavatsal)
+- [Tarun](https://github.com/tarunpandey23)
 
 ## License
 
